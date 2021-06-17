@@ -1,0 +1,14 @@
+
+        table.one,tr.one,td.one,th.one{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border: 2px solid;
+            border-color:red;
+            border-collapse: collapse;
+            background-color:lawngreen;
+            text-transform: capitalize;
+            text-align: center;
+        }
+        hr{
+            background-color: brown;
+            border-style:dashed ;
+        }
